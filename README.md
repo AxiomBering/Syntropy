@@ -1,4 +1,4 @@
-# Syntropic Model 01 (v1.0.26-ALPHA)
+# Syntropic Model 01 (v1.0.26-ALPHA) 
 **An Axiomatic Framework for Human Narrative and Metabolic Optimization.**
 
 ---
